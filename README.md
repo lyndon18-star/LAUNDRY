@@ -1,1 +1,2 @@
 # LAUNDRY
+Testing badges
